@@ -11,10 +11,7 @@ swagger = {
         "contact": 'null',
         "description": 'Apis'
         f'''
-       <a href="http://{SERVER_URL}:5002/api/docs">User Service</a>
-       <a href="http://{SERVER_URL}:5003/api/docs">Product Service</a>
-       <a href="http://{SERVER_URL}:5004/api/docs">Fs Service</a>
-       '''
+       <a href="http://{SERVER_URL}:5002/api/docs">User Service</a>'''
     },
     "tags": [
         {
